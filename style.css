@@ -1,0 +1,14 @@
+div.container {
+  border: 1px solid black;
+  margin: 4px auto;
+  width: 400px;
+  padding: 10px;
+}
+
+div.foot {
+  padding-top: 5px;
+}
+
+div.resultado {
+  padding-top: 5px;
+}
